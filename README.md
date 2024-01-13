@@ -1,8 +1,8 @@
+# BuzzChat
 
-# Talk-A-Tive
-
-Talk-a-tive is a Full Stack Chatting App.
+BuzzChat is a Full Stack Chatting App.
 Uses Socket.io for real time communication and stores user details in encrypted format in Mongo DB Database.
+
 ## Tech Stack
 
 **Client:** React JS
@@ -10,12 +10,7 @@ Uses Socket.io for real time communication and stores user details in encrypted 
 **Server:** Node JS, Express JS
 
 **Database:** Mongo DB
-  
-## Demo
 
-https://talk-a-tive.herokuapp.com/
-
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/group%20%2B%20notif.PNG)
 ## Run Locally
 
 Clone the project
@@ -46,6 +41,7 @@ Start the server
 ```bash
   npm run start
 ```
+
 Start the Client
 
 ```bash
@@ -54,28 +50,41 @@ Start the Client
   npm start
 ```
 
-  
 # Features
 
 ### Authenticaton
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/login.PNG)
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/signup.PNG)
+
+![image](https://github.com/ShreedharJoshi31/BuzzChat/assets/99608980/ab0fe42e-8b20-4520-9d1d-143788e4eb08)
+![image](https://github.com/ShreedharJoshi31/BuzzChat/assets/99608980/3910672b-1764-49fd-8393-0498011672a2)
+
 ### Real Time Chatting with Typing indicators
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/real-time.PNG)
+
+![image](https://github.com/ShreedharJoshi31/BuzzChat/assets/99608980/7d48b128-5749-4db1-af54-e8ecccc28582)
+
 ### One to One chat
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/mainscreen.PNG)
+
+![image](https://github.com/ShreedharJoshi31/BuzzChat/assets/99608980/ea6e4c94-9642-4fcc-8f98-8c5ce21bb5e3)
+
 ### Search Users
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/search.PNG)
+
+![image](https://github.com/ShreedharJoshi31/BuzzChat/assets/99608980/2f99125c-32db-43b0-b98b-5814d178e766)
+
 ### Create Group Chats
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/new%20grp.PNG)
-### Notifications 
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/group%20%2B%20notif.PNG)
+
+![image](https://github.com/ShreedharJoshi31/BuzzChat/assets/99608980/59e79edf-f592-471b-92c5-6b408027980e)
+
+### Notifications
+
+![image](https://github.com/ShreedharJoshi31/BuzzChat/assets/99608980/b2e5ea5d-b5a1-4549-b4b2-313856f2da91)
+
 ### Add or Remove users from group
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/add%20rem.PNG)
+
+![image](https://github.com/ShreedharJoshi31/BuzzChat/assets/99608980/2cb7fd83-ecc3-493f-ac33-e09e06de8ec8)
+
 ### View Other user Profile
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/profile.PNG)
+
+![image](https://github.com/ShreedharJoshi31/BuzzChat/assets/99608980/6522f6fb-65af-4ba6-92a0-378e9801509d)
+
 ## Made By
 
-- [@Piyush-eon](https://github.com/piyush-eon)
-
-  
+- [@ShreedharJoshi](https://github.com/ShreedharJoshi31)
